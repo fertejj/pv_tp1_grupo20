@@ -6,4 +6,4 @@
 - Fernando Javier Tejerina: Buena noche
 - Rodrigo Nicolas Chavez: Buenas Buenas
 - Severich bruno damian : presente
-  Churquina Facundo Francisco: presente
+- Churquina Facundo Francisco: presente
