@@ -5,4 +5,4 @@
 - Valentin Mateo Iriarte Gloss: ola
 - Fernando Javier Tejerina: Buena noche
 - Rodrigo Nicolas Chavez: Buenas Buenas
-- Severich bruno damian : todo bien?
+- Severich bruno damian : presente
