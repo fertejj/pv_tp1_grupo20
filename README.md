@@ -4,6 +4,6 @@
 
 - Valentin Mateo Iriarte Gloss: presente
 - Fernando Javier Tejerina: presente
-- Rodrigo Nicolas Chavez: presente
+- Rodrigo Nicolas Chavez: presente - usuario "nico690"
 - Severich bruno damian - usuario "persy10"
 - Churquina Facundo Francisco: presente
