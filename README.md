@@ -2,8 +2,8 @@
 
 ## INTEGRANTES
 
-- Valentin Mateo Iriarte Gloss: ola
-- Fernando Javier Tejerina: Buena noche
-- Rodrigo Nicolas Chavez: Buenas Buenas
+- Valentin Mateo Iriarte Gloss: presente
+- Fernando Javier Tejerina: presente
+- Rodrigo Nicolas Chavez: presente
 - Severich bruno damian : presente
 - Churquina Facundo Francisco: presente
