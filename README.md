@@ -2,7 +2,7 @@
 
 ## INTEGRANTES
 
-- Valentin Mateo Iriarte Gloss: presente
+- Valentin Mateo Iriarte Gloss: presente - usuario "valentiniriar"
 - Fernando Javier Tejerina: presente - usuario "fertejj"
 - Rodrigo Nicolas Chavez: presente - usuario "nico690"
 - Severich bruno damian - usuario "persy10"
