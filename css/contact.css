@@ -1,43 +1,42 @@
 body {
-  background-image: url("../assets/fondo.jpg");
-
-  background-position: center;
-  height: 100vh;
-  font-family: "Inter", sans-serif;
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-color: #366993;
+  background-image: url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23000000' fill-opacity='0.4' fill-rule='evenodd'%3E%3Cpath d='M0 40L40 0H20L0 20M40 40V20L20 40'/%3E%3C/g%3E%3C/svg%3E");
 }
 .form {
-  background: #24303c;
+  background: #1a293a;
   width: 400px;
   margin: 0 auto;
   display: flex;
   align-items: center;
   flex-direction: column;
-  box-shadow: 7px 13px 37px #24303c;
+  box-shadow: 7px 13px 37px #000;
   border-radius: 5px;
   padding-top: 20px;
   padding-bottom: 20px;
   gap: 15px;
 }
 h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  margin-top: 100px;
   text-align: center;
 }
 input,
 textarea {
-  color: whitesmoke;
-  background-color: #24303c;
+  background-color: #ffffff;
   border-radius: 5px;
   min-height: 30px;
+  margin: 5px;
   width: 240px;
-  border: 1px solid #1f53c5;
+  border: 1px solid;
 }
 button {
   width: 180px;
-  height: 25px;
-  background: #1f53c5;
+  height: 50px;
+  background: #577197;
   color: white;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 .group {
   display: flex;
@@ -45,4 +44,5 @@ button {
 }
 label {
   color: white;
+  margin: 5px;
 }
