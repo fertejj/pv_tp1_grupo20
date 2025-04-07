@@ -1,22 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <link rel="stylesheet" href="./css/styles.css" />
-
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Formulario</title>
+    <link href="css/contact.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
     <h1>Formulario para enviar mensaje al sitio</h1>
-    <form>
-      <label>Ingrese nombre</label><br />
-      <input type="text" placeholder="Nombre" required /><br />
-      <label>Ingrese Apellido</label><br />
-      <input type="text" placeholder="Apellido" required /><br />
-      <label>Mensaje</label><br />
-      <textarea placeholder="Ingrese menseje" required rows="10"></textarea
-      ><br />
+    <form class="form">
+      <div class="group">
+        <label>Nombre</label>
+        <input type="text" placeholder="Nombre" required maxlength="30" />
+      </div>
+      <div class="group">
+        <label>Apellido</label>
+        <input type="text" placeholder="Apellido" required maxlength="30" />
+      </div>
+
+      <div class="group">
+        <label>Email</label>
+        <input
+          type="email"
+          placeholder="Correo electronico"
+          required
+          maxlength="40"
+        />
+      </div>
+      <div class="group">
+        <label>Mensaje</label>
+        <textarea placeholder="Menseje" required rows="10"></textarea>
+      </div>
+
       <button type="submit">Enviar</button>
     </form>
   </body>
