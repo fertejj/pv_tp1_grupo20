@@ -261,7 +261,7 @@ button {
   border-radius: 15px;
   color: #212121;
   z-index: 1;
-  background: #e8e8e8;
+  background-color: #e8e8e8;
   position: relative;
   font-weight: 1000;
   font-size: 17px;
@@ -278,7 +278,7 @@ button::before {
   left: 0;
   height: 100%;
   width: 0;
-  border-radius: 15px;
+  border-radius: 1px;
   background-color: #212121;
   z-index: -1;
   -webkit-box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
@@ -288,6 +288,8 @@ button::before {
 
 button:hover {
   color: #e8e8e8;
+  background-color: #212121;
+
 }
 
 button:hover::before {
